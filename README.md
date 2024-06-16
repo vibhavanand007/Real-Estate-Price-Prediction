@@ -1,2 +1,2 @@
 # Real-Estate-Price-Prediction
-A machine learning model to accurately predict real estate prices based on various property features and market conditions.
+"A comprehensive machine learning project for predicting real estate prices, featuring an advanced predictive model, a Flask server for hosting, and a dynamic website built with HTML, CSS, and JavaScript to provide an interactive user experience."
